@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Muhamad Raffi
+I'm an information Systems student at Gunadarma University
 <!--
 **iffardamahum/iffardamahum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iffardamahum&show_icons=true&theme=tokyonight)
