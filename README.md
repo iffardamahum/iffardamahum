@@ -2,4 +2,4 @@
 
 I'm an Information Systems student at Gunadarma University
 
-![Statistik](https://github-readme-stats.vercel.app/api?username=iffardamahum&show_icons=true&theme=tokyonight)
+![Statistik](https://github-stats-alpha.vercel.app/api?username=iffardamahum&cc=000&tc=fff&ic=fff&bc=000)
